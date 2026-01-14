@@ -48,6 +48,7 @@ The main goals of this project are:
 
 ---
 
+
 ## ⚙️ How to Run the Project Locally
 
 Clone the repository:
