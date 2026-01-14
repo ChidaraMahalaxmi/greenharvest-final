@@ -65,6 +65,3 @@ npm run dev
 Open the browser and visit:
 http://localhost:5173
 
-arduino
-Copy code
-http://localhost:5173
